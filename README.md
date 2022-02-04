@@ -1,2 +1,2 @@
 # 1_MyFirstWebsite
-page published from the first folder of code_learning repo
+Page published from the first folder of [code_learning repo](https://github.com/Snigf12/code_learning)
